@@ -1,0 +1,4 @@
+name = "Ising"
+uuid = "c96706e3-7d68-4bbb-9b88-43e1d6e64c69"
+authors = ["Yama-su <k.yamaki.407@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
